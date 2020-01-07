@@ -1,0 +1,1595 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1 HD
+http://39.135.32.19:6610/000000001000/1000000001000018602/index.m3u8?
+#EXTINF:-1 ,CCTV-2 HD
+http://39.134.134.58:80/wh7f454c46tw4000157581_1906143853/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYRHMRPgOma8nTTkoFc8zp/A/GmgwC0QIut33P9OQnJWQ==:20181012130418,54C57AADF598,183.93.146.195,20181012130418,10000100000000050000000002171859,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539320240&from=1&hms_devid=3443
+#EXTINF:-1 ,CCTV-3 HD
+http://101.71.255.229:6610/zjhs/2/10069/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10069&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN&ts=1553494907
+#EXTINF:-1 ,CCTV-5 HD
+http://39.135.32.39:6610/000000001000/1000000001000004794/index.m3u8?
+#EXTINF:-1 ,CCTV-5  HD
+http://39.135.32.39:6610/000000001000/1000000001000018504/index.m3u8?
+#EXTINF:-1 ,CCTV-6 HD
+http://39.135.32.39:6610/000000001000/1000000001000001737/index.m3u8?
+#EXTINF:-1 ,CCTV-7 HD
+http://39.134.134.116:80/wh7f454c46tw2483264172_1297918979/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYeoIpnpCkGcvR83oqyWsWQIk4l5F7RRaxAbR51zLjKGw==:20181012131400,54C57AADF598,183.93.146.195,20181012131400,10000100000000050000000002172002,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321097&from=1&hms_devid=3563
+#EXTINF:-1 ,CCTV-8 HD
+http://39.135.32.39:6610/000000001000/1000000001000003736/index.m3u8?
+#EXTINF:-1 ,CCTV-9 HD
+http://39.134.134.57:80/wh7f454c46tw239212216_1895396930/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYgecBmJJTI9WluWnpD1T4A4vF/9LPPxsOflJLYH8mGsg==:20181012131506,54C57AADF598,183.93.146.195,20181012131506,10000100000000050000000002172008,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539320965&from=1&hms_devid=3443
+#EXTINF:-1 ,CCTV-10 HD
+http://39.134.134.113:80/wh7f454c46tw3459312532_1936713264/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsb2GLr3ZKEja0u1GBlvU0tHm46E6ZyFvAGcgNcwDzB2iw==:20181012131535,54C57AADF598,183.93.146.195,20181012131535,10000100000000050000000002171820,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539320918&from=1&hms_devid=3363
+#EXTINF:-1 ,CCTV-11 HD
+http://121.31.30.90:8085/ysten-business/live/cctv-11/yst.m3u8
+#EXTINF:-1 ,CCTV-12 HD
+http://39.135.32.39:6610/000000001000/1000000001000001640/index.m3u8?
+#EXTINF:-1 ,CCTV-13 HD
+http://211.136.65.143:80/wh7f454c46tw1474552676_1583974371/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZo1ExU8QlbqLGfhx/PstzTwAmbfM3Mo6eVM31XGJS5NQ==:20181012131800,54C57AADF598,183.93.146.195,20181012131800,10000100000000050000000001936260,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321338&from=1&hms_devid=143
+#EXTINF:-1 ,CCTV-14 HD
+http://39.135.32.39:6610/000000001000/1000000001000008170/index.m3u8?
+#EXTINF:-1 ,湖南衛視 HD
+http://39.135.32.39:6610/000000001000/1000000001000009115/index.m3u8?
+#EXTINF:-1 ,北京衛視 HD
+http://39.134.134.27:80/wh7f454c46tw370589030_197660182/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYyJIJiOLFB9oypdtoENryG4kVuILvVODpAlPSwbycD8w==:20181012132239,54C57AADF598,183.93.146.195,20181012132239,10000100000000050000000002171709,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321617&from=1&hms_devid=563
+#EXTINF:-1 ,東方衛視 HD
+http://39.134.134.114:80/wh7f454c46tw1139762244_1116759023/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZYWvKCT4/YpVkbKoZRTRNAiiFFv9oQn5RopIw3TiunxA==:20181012132411,54C57AADF598,183.93.146.195,20181012132411,10000100000000050000000002172024,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321709&from=1&hms_devid=3363
+#EXTINF:-1 ,江蘇衛視 HD
+http://39.134.134.56:80/wh7f454c46tw4200972994_174743141/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsazXW0hA1GTJRRgq5G2E/8kRNyFgO2pSKd9eYkIp74bDg==:20181012132320,54C57AADF598,183.93.146.195,20181012132320,10000100000000050000000002172100,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321458&from=1&hms_devid=3543
+#EXTINF:-1 ,浙江衛視 HD
+http://39.134.134.113:80/wh7f454c46tw359378752_127683947/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsacfzh9FqgMc5bSEXTnNnsDixKdRditpbz54jbxKoJXkw==:20181012132346,54C57AADF598,183.93.146.195,20181012132346,10000100000000050000000002172165,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321409&from=1&hms_devid=3363
+#EXTINF:-1 ,深圳衛視 HD
+http://39.134.134.59:80/wh7f454c46tw416748621_1558866135/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZ04xfDqzszxB9yjIyjId6tnW7eBKhumQWKo1clTpjTJQ==:20181012132817,54C57AADF598,183.93.146.195,20181012132817,10000100000000050000000002172157,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321955&from=1&hms_devid=3583
+#EXTINF:-1 ,天津衛視 HD
+http://39.134.134.70:80/wh7f454c46tw232170718_739226070/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsb67zxrFdYUX9xdMsQQWdW9ZlOLbRviN9lIdxsSGRbzig==:20181012133033,54C57AADF598,183.93.146.195,20181012133033,10000100000000050000000002172162,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539322090&from=1&hms_devid=3523
+#EXTINF:-1 ,安微衛視 HD
+http://39.135.32.39:6610/000000001000/1000000001000020780/index.m3u8?
+#EXTINF:-1 ,江西衛視 HD
+http://39.134.134.71:80/wh7f454c46tw9296304_640535693/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYdIvHjYakl/fRDMkX8ogXIHL2Dr1kRd6CjMQ919F1BjA==:20181012133434,54C57AADF598,183.93.146.195,20181012133434,10000100000000050000000002172143,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539322331&from=1&hms_devid=3423
+#EXTINF:-1 ,廣東衛視 HD
+http://39.135.32.39:6610/000000001000/1000000001000014176/index.m3u8?
+#EXTINF:-1 ,山東衛視 HD
+http://39.135.32.39:6610/000000001000/1000000001000012807/index.m3u8?
+#EXTINF:-1 ,湖北衛視 HD
+http://101.71.255.229:6610/zjhs/2/10022/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10022&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=6DNXOHND72T9QOMVCFSTFGEYNB1L&ts=1553493822
+#EXTINF:-1 ,黑龍江衛視 HD
+http://101.71.255.229:6610/zjhs/2/10020/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10020&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=H40M3CJ8RNTPG6IDYQ9P0JNXIFSS&ts=1553493934
+#EXTINF:-1 ,四川衛視 HD
+http://101.71.255.229:6610/zjhs/2/10046/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10046&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=VKMCMD6YO3YGJAQQFQN2HUTJU3HM&ts=1553491995
+#EXTINF:-1 ,重慶衛視 HD
+http://118.123.60.84:8006/syhjcms_hls/10000100201705020000001000000009
+#EXTINF:-1 ,貴州衛視 HD
+http://101.71.255.229:6610/zjhs/2/10015/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10015&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=GKNHB4TOW667DKU83R59EX73ERKO&ts=1553493530
+#EXTINF:-1 ,廣西衛視 HD
+http://202.107.188.233:5002/guangxi_hdcq-1.m3u8?token=g9xMQYTcTEGF3ExB_yoongoo&ct=wifi&gid=guangxi_hdcq
+#EXTINF:-1 ,河北衛視 HD
+http://101.71.255.229:6610/zjhs/2/10017/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10017&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=0JPN3MB8GGF8YHBEX7HS1P8B6SLK&ts=1553498741
+#EXTINF:-1 ,新疆衛視
+http://101.71.255.229:6610/zjhs/2/10050/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10050&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=JK54SI0VG3BWULNCJIHOP9O62VJB&ts=1553499188
+#EXTINF:-1 ,兵團衛視
+http://101.71.255.229:6610/zjhs/2/10006/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10006&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=IAF4XLZQL0YDFA86G2R96PPHDYE7&ts=1553498607
+#EXTINF:-1 ,陜西衛視
+http://101.71.255.229:6610/zjhs/2/10042/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10042&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=CI8FMW3PMK07O71WD7ZN29F1BL0K&ts=1553502655
+#EXTINF:-1 ,延邊衛視 HD
+http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+#EXTINF:-1 ,寧夏衛視 HD
+http://101.71.255.229:6610/zjhs/2/10036/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10036&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=440IB070GFIY7R5RI5P51WEZIWD8&ts=1553499508
+#EXTINF:-1 ,內蒙古衛視
+http://101.71.255.229:6610/zjhs/2/10035/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10035&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=YIH1R10RJ183QKWZV3U7M2UEBVIT&ts=1553501873
+#EXTINF:-1 ,西藏衛視
+http://101.71.255.229:6610/zjhs/2/10049/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10049&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=O9UD8C63ELMVSRJDPYIWSF89710V&ts=1553498916
+#EXTINF:-1 ,安多衛視
+http://111.40.205.72/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 ,康巴衛視
+http://111.40.205.72/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 ,NEWTV金牌綜藝HD
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=7951969344461811424
+#EXTINF:-1 ,NEWTV精品大劇HD
+http://gslbserv.itv.cmvideo.cn:80/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7882297361445410858&owchid=ystenlive&owsid=7951969344461789021
+#EXTINF:-1 ,NEWTV精品電影HD
+http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
+#EXTINF:-1 ,NEWTV驚悚懸疑HD
+http://gslbserv.itv.cmvideo.cn:80/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7151256057701199617&owchid=ystenlive&owsid=7951969344461309585
+#EXTINF:-1 ,NEWTV家庭劇場HD
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6316377948248689070&owchid=ystenlive&owsid=7951969344461297064
+#EXTINF:-1 ,NEWTV動作電影HD
+http://gslbserv.itv.cmvideo.cn:80/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=7951969344461271832
+#EXTINF:-1 ,NEWTV明星大片HD
+http://gslbserv.itv.cmvideo.cn:80/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044
+#EXTINF:-1 ,NEWTV古裝劇場
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6859053933687922163&owchid=ystenlive&owsid=7951969344461257334
+#EXTINF:-1 ,NEWTV愛情喜劇
+http://gslbserv.itv.cmvideo.cn:80/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=7951969344461671826
+#EXTINF:-1 ,NEWTV軍旅劇場
+http://gslbserv.itv.cmvideo.cn:80/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=7951969344461285239
+#EXTINF:-1 ,NEWTV海外劇場
+http://gslbserv.itv.cmvideo.cn:80/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=7951969344461325347
+#EXTINF:-1 ,NEWTV精品紀錄HD
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6298506997017621594&owchid=ystenlive&owsid=7951969344462219754
+#EXTINF:-1 ,NEWTV精品體育HD
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6460382139625130259&owchid=ystenlive&owsid=7951969344462313166
+#EXTINF:-1 ,NEWTV動畫王國HD
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
+#EXTINF:-1 ,NEWTV搏擊
+http://gslbserv.itv.cmvideo.cn:80/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=bokesen&owchid=ystenlive&owsid=7951969344461425531
+#EXTINF:-1 ,NEWTV中國功夫
+http://gslbserv.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=7951969344461800735
+#EXTINF:-1 ,NEWTV軍事評論
+http://gslbserv.itv.cmvideo.cn:80/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5822616274253344775&owchid=ystenlive&owsid=7951969344461854480
+#EXTINF:-1 ,NEWTV農業致富
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6193684637634073625&owchid=ystenlive&owsid=7951969344462094324
+#EXTINF:-1 ,NEWTV潮媽辣婆
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=7951969344462324357
+#EXTINF:-1 ,NEWTV完美遊戲
+http://gslbserv.itv.cmvideo.cn:80/000000001000/5320946857686967621/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5320946857686967621&owchid=ystenlive&owsid=7951969344462105144
+#EXTINF:-1 ,CIBN漢學院
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN汽車
+http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN軍事
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN教育
+http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN生活
+http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN童學世界
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN文化中國
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBNTEA電競
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,?高清電影1
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,高清電影2
+http://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,高清電影3
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 ,高清電影4
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,高清電影5
+http://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
+#EXTINF:-1 ,高清電影6
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,高清電影7
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 ,高清電影8
+http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
+#EXTINF:-1 ,高清電影9
+http://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,高清電影10
+http://aldirect.hls.huya.com/huyalive/30765679-2554414651-10971127386468253696-3048959632-10057-A-0-1.m3u8
+#EXTINF:-1 ,高清電影11
+http://aldirect.hls.huya.com/huyalive/29169025-2686221528-11537233612571148288-2847687610-10057-A-1523932939-1_1200.m3u8
+#EXTINF:-1 ,高清電影12
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 ,高清電影15
+http://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
+#EXTINF:-1 ,高清電影16
+http://aldirect.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,CBN每日影院
+http://42.48.60.248:8082/live/gqts-800k.m3u8
+#EXTINF:-1 ,CBN幸福劇場
+http://42.48.60.248:8082/live/gqys-800k.m3u8?
+#EXTINF:-1 ,?電視劇
+http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+#EXTINF:-1 ,華數劇場
+http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
+#EXTINF:-1 ,科幻電影
+http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
+#EXTINF:-1 ,華數TV神劇6
+http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
+#EXTINF:-1 ,新三國
+http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,科幻動作電影
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,女神電影
+http://tx.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.m3u8
+#EXTINF:-1 ,臥底警匪
+http://tx.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1.m3u8
+#EXTINF:-1 ,美隊和雷神
+http://tx.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
+#EXTINF:-1 ,X戰警
+http://tx.hls.huya.com/huyalive/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8
+#EXTINF:-1 ,變形金剛
+http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
+#EXTINF:-1 ,五福星電影
+http://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
+#EXTINF:-1 ,香港電影頻道
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 ,賭片電影
+http://aldirect.hls.huya.com/huyalive/30765679-2689675756-11552069408864075776-3048991624-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,開心鬼電影
+http://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1 ,粵語電影
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,貝爺荒野頻道
+http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1_1200.m3u8
+#EXTINF:-1 ,金庸系列
+http://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,峨眉電影HD
+http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
+#EXTINF:-1 ,陳翔六點半
+http://tx.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
+#EXTINF:-1 ,成龍電影
+http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 ,徐崢電影
+http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+#EXTINF:-1 ,周星馳電影
+http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 ,周潤發電影
+http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
+#EXTINF:-1 ,劉德華電影
+http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 ,李連傑電影
+http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 ,洪金寶電影
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:-1 ,林正英電影
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 ,甄子丹電影
+http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+#EXTINF:-1 ,賭博電影
+http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1 ,斯坦森電影
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 ,漫威電影
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 ,覆仇犯罪
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1 ,女神港片
+http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1 ,真實改編
+http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 ,怪物科幻
+http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
+#EXTINF:-1 ,喪屍電影
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 ,好萊塢電影1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,好萊塢電影2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 ,好萊塢電影3
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,好萊塢電影4
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,大陸高清電影
+http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 ,歐美影院
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+#EXTINF:-1 ,亞洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+#EXTINF:-1 ,衛星劇場
+http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
+#EXTINF:-1 ,高清時尚
+http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
+#EXTINF:-1 ,高清時尚
+http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
+#EXTINF:-1 ,高清時尚
+http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
+#EXTINF:-1 ,環球時裝
+http://hls-ott-zhibo.wasu.tv/live/302/index.m3u8
+#EXTINF:-1 ,北京時裝周
+http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
+#EXTINF:-1 ,世界時裝
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,法國時尚
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 ,FTV午夜
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 ,FTV花園
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 ,FamilyTV
+http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
+#EXTINF:-1 ,美國中文電視
+http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 ,美國唐人街台
+http://174.127.67.246/live330/playlist.m3u8
+#EXTINF:-1 ,歷史頻道
+http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
+#EXTINF:-1 ,台灣親子
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 ,台灣全美
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 ,博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 ,香港開視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,港有線台
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,天空新聞
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 ,陽光衛視
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
+#EXTINF:-1 ,香港奇妙電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,香港電影
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 ,澳亞衛視
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,澳門衛星
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 ,澳視葡語
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 ,澳視澳門
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,澳門資訊
+http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 ,好萊塢影
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,未來的秘密
+http://bili.meijuzuida.com/20190605/16697_21bbd6f7/index.m3u8
+#EXTINF:-1 ,未來的秘密
+http://bili.meijuzuida.com/20190605/16696_1e6cd9cb/index.m3u8
+#EXTINF:-1 ,未來的秘密
+http://bili.meijuzuida.com/20190605/16695_36fd6cfc/index.m3u8
+#EXTINF:-1 ,未來的秘密
+http://bili.meijuzuida.com/20190605/16694_ea083f82/index.m3u8
+#EXTINF:-1 ,未來的秘密
+http://bili.meijuzuida.com/20190605/16693_d96b6d74/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190518/10905_883aa2ef/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190518/10904_0e1b4561/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190520/14869_2933a376/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190520/14868_d52ad84a/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190521/11023_07501d0c/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190521/11022_7f760b8a/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190522/11064_e784af9e/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190523/15137_d8079d75/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190523/15136_857469f8/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190524/15242_653099ca/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190524/15241_973a5abc/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190525/11191_5b461fdd/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190525/11192_16005380/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190527/15486_d0c524e6/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190527/15485_44c27346/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190528/15675_a57e8308/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190528/15674_77e1692e/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190529/15751_07619911/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190529/15750_8ce381c3/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190530/15822_64af5991/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190530/15821_b1df884a/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190531/16077_b2c36708/index.m3u8
+#EXTINF:-1 ,麥香
+http://bili.meijuzuida.com/20190531/16076_1365b60d/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190603/11684_6f7ed480/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190603/11683_69b85eb0/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190604/11726_7d4e60e7/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190604/11725_bfa6b4da/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190605/11774_1565b7c9/index.m3u8
+#EXTINF:-1 ,麥香
+http://iqiyi.qq-zuidazy.com/20190605/11773_d1ee04d3/index.m3u8
+#EXTINF:-1 ,大宋少年志
+http://iqiyi.qq-zuidazy.com/20190603/11694_9c54a653/index.m3u8
+#EXTINF:-1 ,大宋少年志
+http://iqiyi.qq-zuidazy.com/20190603/11693_4673feb0/index.m3u8
+#EXTINF:-1 ,大宋少年志
+http://bili.meijuzuida.com/20190604/16580_bb18dfb4/index.m3u8
+#EXTINF:-1 ,大宋少年志
+http://bili.meijuzuida.com/20190604/16579_0c64a988/index.m3u8
+#EXTINF:-1 ,大宋少年志
+http://bili.meijuzuida.com/20190605/16692_a6fcef6e/index.m3u8
+#EXTINF:-1 ,大宋少年志
+http://bili.meijuzuida.com/20190605/16691_5c00bdfd/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://bili.meijuzuida.com/20190531/16075_f400de51/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://bili.meijuzuida.com/20190531/16074_3d4e9499/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://bili.meijuzuida.com/20190601/16171_cc50db76/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://bili.meijuzuida.com/20190601/16170_050fe31c/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://bili.meijuzuida.com/20190601/16169_b1ceafd9/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://iqiyi.qq-zuidazy.com/20190602/11631_72f1a77a/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://iqiyi.qq-zuidazy.com/20190602/11630_0201bc19/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://iqiyi.qq-zuidazy.com/20190603/11682_a6421153/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://iqiyi.qq-zuidazy.com/20190603/11681_882d2699/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://iqiyi.qq-zuidazy.com/20190603/11680_d935f5e5/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://iqiyi.qq-zuidazy.com/20190604/11724_b3155b49/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://iqiyi.qq-zuidazy.com/20190604/11723_bb23f232/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://iqiyi.qq-zuidazy.com/20190604/11722_4cdd3f4f/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://iqiyi.qq-zuidazy.com/20190605/11772_4477e379/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://iqiyi.qq-zuidazy.com/20190605/11771_a87213db/index.m3u8
+#EXTINF:-1 ,無名衛士
+http://iqiyi.qq-zuidazy.com/20190605/11770_bd099bc0/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190518/10898_c4e854d1/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190519/14842_1bdccdd7/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190519/14841_b72de705/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190520/14934_bbcac3f4/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190520/14933_e99876da/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190521/14980_4158c43f/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190521/14979_37194229/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190522/15038_fe3fc1d4/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190522/15037_43ddb704/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190523/11111_c753e6d8/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190523/11110_3d0d4158/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://cn2.zuidadianying.com/20190526/Nns6kfxA/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190526/15423_a251fecf/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190526/15422_5d696431/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190527/11294_81099876/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190527/11293_4cf62f0b/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190528/11376_23698fe1/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190528/11375_4eeca9c3/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190529/15738_a8e451ae/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://bili.meijuzuida.com/20190529/15737_492983c2/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190530/11476_5b5e5c13/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190530/11475_f1690004/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190531/11523_880fb015/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190531/11522_8a85d3e6/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190601/11580_f5f0c889/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190602/11623_a4ff0a13/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190602/11622_14a393e7/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190603/11672_cfc2c3fd/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190603/11671_6f5c79c3/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190604/11717_e6a9337a/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190604/11716_8ae67557/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190605/11764_7807cb12/index.m3u8
+#EXTINF:-1 ,我要和你在一起
+http://iqiyi.qq-zuidazy.com/20190605/11763_a2684149/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://bili.meijuzuida.com/20190519/14831_29232f18/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://bili.meijuzuida.com/20190519/14830_f068864a/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190520/10986_9df7e11d/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190520/10985_ae1bdcbf/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://bili.meijuzuida.com/20190521/14982_bbb04d11/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://bili.meijuzuida.com/20190521/14981_4ccbd78d/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://bili.meijuzuida.com/20190522/15040_c4c96d1d/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://bili.meijuzuida.com/20190522/15039_86cd6bf8/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190523/11113_596416cf/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190523/11112_bf526d51/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190525/11183_d4175a77/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://bili.meijuzuida.com/20190526/15425_8bf3e746/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://bili.meijuzuida.com/20190526/15424_0c940726/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190527/11296_f48dfe5e/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190527/11295_62a1334b/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://bili.meijuzuida.com/20190529/15740_b808bb26/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://bili.meijuzuida.com/20190529/15739_26405906/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190530/11474_a85ebb9b/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190530/11473_5157dd82/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190531/11525_67a2551b/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190531/11524_5ea5de28/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190601/11581_7de0cfe5/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190602/11625_431f805c/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190602/11624_01dbd0fc/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190603/11674_567b207d/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190603/11673_db663e61/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190604/11719_8fee4c97/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190604/11718_ae272bbb/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190605/11766_42b76fa8/index.m3u8
+#EXTINF:-1 ,我的真朋友
+http://iqiyi.qq-zuidazy.com/20190605/11765_99097c55/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190522/15046_5c519d66/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190522/15045_7c6a63a2/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190522/15044_1baf02e9/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190522/15043_3844351d/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190522/15042_3dc778f1/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190522/15041_a96f3f59/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190524/15229_377da1fc/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190524/15228_ea0c69bf/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190525/11187_9c9ed79f/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190525/11188_aebda636/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190528/11373_a18f3f68/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190528/11372_c53ced52/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190529/15744_23c8a997/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190529/15743_cb8ecff4/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190530/11480_a7d468bd/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190530/11479_49e6417c/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190531/11520_a80bacc8/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190531/11519_f2a62389/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190601/16162_813af56d/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190601/16161_e23e07b1/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190602/11620_0df72712/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190602/11619_fa3713af/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190603/11668_ad4ab2f3/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://iqiyi.qq-zuidazy.com/20190603/11667_6c181ebf/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190604/16563_ed9d7154/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190604/16562_64b0f3d1/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190605/16622_d85a44fd/index.m3u8
+#EXTINF:-1 ,親愛的婚姻
+http://bili.meijuzuida.com/20190605/16621_9cbb36f3/index.m3u8
+#EXTINF:-1 ,動物管理局
+http://iqiyi.qq-zuidazy.com/20190605/11757_64618c18/index.m3u8
+#EXTINF:-1 ,動物管理局
+http://bili.meijuzuida.com/20190605/16628_95e84505/index.m3u8
+#EXTINF:-1 ,動物管理局
+http://bili.meijuzuida.com/20190605/16627_eb322f0b/index.m3u8
+#EXTINF:-1 ,動物管理局
+http://bili.meijuzuida.com/20190605/16626_43f6c910/index.m3u8
+#EXTINF:-1 ,動物管理局
+http://bili.meijuzuida.com/20190605/16625_2ba39432/index.m3u8
+#EXTINF:-1 ,動物管理局
+http://bili.meijuzuida.com/20190605/16624_c54d0088/index.m3u8
+#EXTINF:-1 ,動物管理局
+http://bili.meijuzuida.com/20190605/16623_0596ec9c/index.m3u8
+#EXTINF:-1 ,動物管理局
+http://iqiyi.qq-zuidazy.com/20190605/11756_f7a3c1bf/index.m3u8
+#EXTINF:-1 ,也許明天
+http://iqiyi.qq-zuidazy.com/20190605/11750_a843beec/index.m3u8
+#EXTINF:-1 ,狂徒
+http://cn2.zuidadianying.com/20190605/mR35woeA/index.m3u8
+#EXTINF:-1 ,將軍願
+http://bili.meijuzuida.com/20190605/16615_cb5bccdb/index.m3u8
+#EXTINF:-1 ,5英尺洞穴傳奇
+http://cn2.zuidadianying.com/20190605/tb1fDBWI/index.m3u8
+#EXTINF:-1 ,最後的夏天
+http://cn2.zuidadianying.com/20190605/D7DtERQw/index.m3u8
+#EXTINF:-1 ,水男孩
+http://iqiyi.qq-zuidazy.com/20190601/11589_640ce947/index.m3u8
+#EXTINF:-1 ,水男孩
+http://iqiyi.qq-zuidazy.com/20190601/11588_9ac54f2b/index.m3u8
+#EXTINF:-1 ,水男孩
+http://bili.meijuzuida.com/20190601/16183_8d3d0f60/index.m3u8
+#EXTINF:-1 ,水男孩
+http://bili.meijuzuida.com/20190601/16182_a509c6e7/index.m3u8
+#EXTINF:-1 ,水男孩
+http://bili.meijuzuida.com/20190601/16181_dc7a4345/index.m3u8
+#EXTINF:-1 ,水男孩
+http://bili.meijuzuida.com/20190601/16180_cf14a4ad/index.m3u8
+#EXTINF:-1 ,水男孩
+http://bili.meijuzuida.com/20190601/16179_750e12af/index.m3u8
+#EXTINF:-1 ,水男孩
+http://bili.meijuzuida.com/20190605/16610_10f0efb7/index.m3u8
+#EXTINF:-1 ,水男孩
+http://bili.meijuzuida.com/20190605/16609_43e8a28d/index.m3u8
+#EXTINF:-1 ,水男孩
+http://bili.meijuzuida.com/20190605/16608_940bbeac/index.m3u8
+#EXTINF:-1 ,水男孩
+http://bili.meijuzuida.com/20190605/16607_4f6df52f/index.m3u8
+#EXTINF:-1 ,水男孩
+http://iqiyi.qq-zuidazy.com/20190605/11743_c616335f/index.m3u8
+#EXTINF:-1 ,水男孩
+http://iqiyi.qq-zuidazy.com/20190605/11742_ea7797d0/index.m3u8
+#EXTINF:-1 ,水男孩
+http://iqiyi.qq-zuidazy.com/20190605/11741_22b59286/index.m3u8
+#EXTINF:-1 ,惡靈釋放
+http://cn2.zuidadianying.com/20190605/hbhB3ZRD/index.m3u8
+#EXTINF:-1 ,地久天長
+http://bili.meijuzuida.com/20190604/16573_1327ccc0/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11367_0fe643a8/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11366_dad7a53e/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11365_7bcbb1e3/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11364_683c3a34/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11363_2db857f0/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11362_761d4c9f/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11361_efd04294/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11381_54a0f651/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11380_8e42e75c/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11379_85bb1ad2/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11378_5611fd3b/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190528/11377_e289dee9/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190604/11713_6ac14f00/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190604/11712_113e248a/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://iqiyi.qq-zuidazy.com/20190604/11711_59cbe542/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://bili.meijuzuida.com/20190604/16561_43e47388/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://bili.meijuzuida.com/20190604/16560_1ec7f410/index.m3u8
+#EXTINF:-1 ,鳳弈
+http://bili.meijuzuida.com/20190604/16559_e962b118/index.m3u8
+#EXTINF:-1 ,誤殺瞞天記
+http://bili.meijuzuida.com/20190604/16523_9780ab78/index.m3u8
+#EXTINF:-1 ,過昭關
+http://iqiyi.qq-zuidazy.com/20190604/11701_5ba77815/index.m3u8
+#EXTINF:-1 ,六年之癢
+http://iqiyi.qq-zuidazy.com/20190604/11700_090086e2/index.m3u8
+#EXTINF:-1 ,爆款誕生
+http://bili.meijuzuida.com/20190604/16524_3144d9db/index.m3u8
+#EXTINF:-1 ,瘋癲和尚之再續前緣
+http://iqiyi.qq-zuidazy.com/20190604/11698_d2eb902e/index.m3u8
+#EXTINF:-1 ,探險迷局
+http://iqiyi.qq-zuidazy.com/20190603/11652_75fae309/index.m3u8
+#EXTINF:-1 ,美人心蠱
+http://iqiyi.qq-zuidazy.com/20190603/11643_11698991/index.m3u8
+#EXTINF:-1 ,波斯王子：時之刃
+http://bili.meijuzuida.com/20190601/16168_95d3e5f7/index.m3u8
+#EXTINF:-1 ,瘋狂蘭蛇
+http://bili.meijuzuida.com/20190603/16321_8aa8822b/index.m3u8
+#EXTINF:-1 ,大俠別胡來
+http://iqiyi.qq-zuidazy.com/20190602/11640_b914bee9/index.m3u8
+#EXTINF:-1 ,拍栗得
+http://cn2.zuidadianying.com/20190602/rswOgXZ0/index.m3u8
+#EXTINF:-1 ,少年犯2018
+http://cn2.zuidadianying.com/20190602/ONVBqfc6/index.m3u8
+#EXTINF:-1 ,尋車奇遇
+http://cn2.zuidadianying.com/20190602/7phkVlat/index.m3u8
+#EXTINF:-1 ,鬼眨眼
+http://cn2.zuidadianying.com/20190602/9KMpLzHY/index.m3u8
+#EXTINF:-1 ,大男孩清醒路
+http://cn2.zuidadianying.com/20190602/TKy4SwPG/index.m3u8
+#EXTINF:-1 ,結婚那件事
+http://hair.jingpin88.com/20171116/P8Qfvf5t/index.m3u8
+#EXTINF:-1 ,近在咫尺
+http://bili.meijuzuida.com/20190602/16205_8997dde4/index.m3u8
+#EXTINF:-1 ,江邊旅館
+http://bili.meijuzuida.com/20190602/16206_e7a255b0/index.m3u8
+#EXTINF:-1 ,家族榮譽
+http://iqiyi.qq-zuidazy.com/20190601/11592_10271e08/index.m3u8
+#EXTINF:-1 ,家族榮譽5： 家門的歸還
+http://iqiyi.qq-zuidazy.com/20190601/11593_d5c2f76c/index.m3u8
+#EXTINF:-1 ,家族榮譽4：家門的受難
+http://iqiyi.qq-zuidazy.com/20190601/11594_f9e2e071/index.m3u8
+#EXTINF:-1 ,愛寵大機密2
+http://bili.meijuzuida.com/20190601/16167_d15d504e/index.m3u8
+#EXTINF:-1 ,古井兇靈
+http://bili.meijuzuida.com/20190601/16166_7f658cc0/index.m3u8
+#EXTINF:-1 ,喪屍未逝
+http://bili.meijuzuida.com/20190601/16165_5fe0c9af/index.m3u8
+#EXTINF:-1 ,功夫北鼻2
+http://iqiyi.qq-zuidazy.com/20190601/11575_892d47c1/index.m3u8
+#EXTINF:-1 ,黑暗意識
+http://cn2.zuidadianying.com/20190601/5ZCD1Ron/index.m3u8
+#EXTINF:-1 ,僵屍爆棚記
+http://cn2.zuidadianying.com/20190601/8jPvSpDJ/index.m3u8
+#EXTINF:-1 ,戰金剛
+http://bili.meijuzuida.com/20190531/16140_23da3fab/index.m3u8
+#EXTINF:-1 ,列神記Ⅱ
+http://iqiyi.qq-zuidazy.com/20190531/11562_f70b9083/index.m3u8
+#EXTINF:-1 ,海星
+http://cn2.zuidadianying.com/20190601/bOk54Rqe/index.m3u8
+#EXTINF:-1 ,兩大無猜
+http://cn2.zuidadianying.com/20190601/e4UDjoE7/index.m3u8
+#EXTINF:-1 ,逃離欲望島
+http://iqiyi.qq-zuidazy.com/20190531/11510_6d88661f/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://bili.meijuzuida.com/20190523/15124_782be9fe/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://bili.meijuzuida.com/20190523/15123_adaabdd4/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://bili.meijuzuida.com/20190523/15122_1d882faa/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://bili.meijuzuida.com/20190523/15121_1c7959c3/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://bili.meijuzuida.com/20190523/15120_2aeee034/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://bili.meijuzuida.com/20190523/15119_18fa669a/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://bili.meijuzuida.com/20190523/15118_f01a26db/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://bili.meijuzuida.com/20190523/15117_567b453e/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://iqiyi.qq-zuidazy.com/20190524/11146_967ea03c/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://iqiyi.qq-zuidazy.com/20190524/11145_647de763/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://bili.meijuzuida.com/20190530/15798_b98f5741/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://bili.meijuzuida.com/20190530/15797_e7fa3a85/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://iqiyi.qq-zuidazy.com/20190531/11516_4f30327c/index.m3u8
+#EXTINF:-1 ,馬卡龍少女
+http://iqiyi.qq-zuidazy.com/20190531/11515_c7c1cea9/index.m3u8
+#EXTINF:-1 ,趣事
+http://cn2.zuidadianying.com/20190531/TXYu0Hr9/index.m3u8
+#EXTINF:-1 ,從零開始
+http://cn2.zuidadianying.com/20190531/azDdUCDb/index.m3u8
+#EXTINF:-1 ,男人四十上高中
+http://bili.meijuzuida.com/20190530/15861_911a9c85/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190507/10201_2edd6819/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190507/13763_7f550b32/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190508/13835_6bab687c/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190508/13834_e3359477/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190510/10356_bb0172f6/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190510/10355_29532f2a/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190511/14193_0d7ba6ee/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190511/14192_19447449/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190512/10450_f2a7f01c/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190512/10449_736fe2a0/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190513/10492_d6a343ac/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190513/10491_2a99e68d/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190514/14354_a0c1c563/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190514/14353_c540c7c9/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190515/14435_3398f159/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190515/14434_5644b9e8/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190516/14535_a26abc56/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190516/14534_3f88bb47/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190517/10855_705a02b1/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190517/10854_be375f31/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190518/14781_0f73857e/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190518/14780_b7a4e51d/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190519/14826_37080035/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190519/14825_9caa814c/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190520/14910_74ffcce7/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190520/14909_54577496/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190521/11012_37af536f/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190521/11011_1bf8d33e/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190522/15024_de8b4039/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190522/11058_9ed8f33f/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190523/11102_af8845d6/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190523/15114_782dfc94/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190524/15192_3199aefe/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190524/15191_84ef376d/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190525/11176_ff37b891/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190525/11175_325b5c74/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190526/11252_a209a78c/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190526/11251_9b35260f/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190527/15472_1d1d62b3/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190527/15471_0151e1c0/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190528/11360_be97acb0/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190528/11359_0c788074/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190529/15731_3e20e641/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://bili.meijuzuida.com/20190529/15730_8a2192e2/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190530/11456_e750e449/index.m3u8
+#EXTINF:-1 ,破冰行動
+http://iqiyi.qq-zuidazy.com/20190530/11455_0e2eef76/index.m3u8
+#EXTINF:-1 ,西域冒險記之神秘鏡
+http://iqiyi.qq-zuidazy.com/20190530/11467_c979eefd/index.m3u8
+#EXTINF:-1 ,奪命劫
+http://iqiyi.qq-zuidazy.com/20190530/11452_1d5a6e31/index.m3u8
+#EXTINF:-1 ,難以置信2019
+http://bili.meijuzuida.com/20190530/15789_1187c38e/index.m3u8
+#EXTINF:-1 ,緣份糾纏
+http://bili.meijuzuida.com/20190530/15788_6cfbbd72/index.m3u8
+#EXTINF:-1 ,哭泣女人的詛咒
+http://cn2.zuidadianying.com/20190529/IYsqFc4T/index.m3u8
+#EXTINF:-1 ,高材生
+http://cn2.zuidadianying.com/20190529/zmJIiH0i/index.m3u8
+#EXTINF:-1 ,七月十四不見不散
+http://bili.meijuzuida.com/20190529/15728_e3e3f2df/index.m3u8
+#EXTINF:-1 ,七月又十四之信不信由你
+http://iqiyi.qq-zuidazy.com/20190529/11413_97e755bd/index.m3u8
+#EXTINF:-1 ,倩狐之京衛怪談
+http://iqiyi.qq-zuidazy.com/20190528/11412_f0b30823/index.m3u8
+#EXTINF:-1 ,血紅島嶼
+http://cn2.zuidadianying.com/20190528/j8mFi9s3/index.m3u8
+#EXTINF:-1 ,覆仇者2019
+http://cn2.zuidadianying.com/20190527/ie4kfQbY/index.m3u8
+#EXTINF:-1 ,致命之旅
+http://cn2.zuidadianying.com/20190527/2Z1Mn15X/index.m3u8
+#EXTINF:-1 ,冬蔭功2：拳霸天下
+http://bili.meijuzuida.com/20190527/15454_cbccf6e5/index.m3u8
+#EXTINF:-1 ,燕子李三2019
+http://iqiyi.qq-zuidazy.com/20190527/11275_df24c26b/index.m3u8
+#EXTINF:-1 ,沒譜廚神
+http://iqiyi.qq-zuidazy.com/20190527/11276_9c8c0ccd/index.m3u8
+#EXTINF:-1 ,我的一級兄弟
+http://iqiyi.qq-zuidazy.com/20190526/11269_c884a467/index.m3u8
+#EXTINF:-1 ,跳動的心
+http://cn2.zuidadianying.com/20190526/zYsRbTs4/index.m3u8
+#EXTINF:-1 ,青春流水之校園往事
+http://bili.meijuzuida.com/20190526/15336_32352b4e/index.m3u8
+#EXTINF:-1 ,莫莉快跑
+http://cn2.zuidadianying.com/20190526/iOPXp8LW/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14904_14f6acbc/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14903_bf6c91a1/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14902_1e80c425/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14901_c5c05b41/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14900_c62658a9/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14898_dcd8cc99/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14899_eb732fc2/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14897_2924ea1b/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14895_5b44571a/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14896_d59b0119/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14894_e4d92f95/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14892_d7e9c19b/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14891_9143354b/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14893_9440cb1b/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14889_fdfa5cc5/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14890_9b07d60b/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14888_fd32ae83/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14887_b74979fb/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14886_22de2524/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14885_a785bf45/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14884_831dd192/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14883_dc24eddc/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14881_7b148abc/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14882_6ec19b5b/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14880_25f77aae/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14879_cbe9395b/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14878_804f179a/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14877_6634cfc9/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14876_79ec4e41/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14875_49605fc5/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14873_7362b43c/index.m3u8
+#EXTINF:-1 ,導演對我下手了
+http://bili.meijuzuida.com/20190520/14874_85431890/index.m3u8
+#EXTINF:-1 ,痞子英雄2：黎明升起
+http://bili.meijuzuida.com/20190524/15190_b9262abb/index.m3u8
+#EXTINF:-1 ,痞子英雄之全面開戰
+http://bili.meijuzuida.com/20190524/15193_cdb8604d/index.m3u8
+#EXTINF:-1 ,如影隨心
+http://bili.meijuzuida.com/20190524/15186_efe86015/index.m3u8
+#EXTINF:-1 ,五尺天涯
+http://cn2.zuidadianying.com/20190524/8PcQPCGi/index.m3u8
+#EXTINF:-1 ,接招吧！那邊的女孩電影版
+http://bili.meijuzuida.com/20190523/15125_f56b023e/index.m3u8
+#EXTINF:-1 ,陽光姐妹淘
+http://bili.meijuzuida.com/20190523/15105_fe86bb04/index.m3u8
+#EXTINF:-1 ,歡迎來北方II
+http://cn2.zuidadianying.com/20190523/zVAxch0F/index.m3u8
+#EXTINF:-1 ,二鳳
+http://cn2.zuidadianying.com/20190523/AnJmNRFi/index.m3u8
+#EXTINF:-1 ,倩狐之妖亂青華
+http://iqiyi.qq-zuidazy.com/20190520/10972_f9d9a682/index.m3u8
+#EXTINF:-1 ,心仇
+http://cn2.zuidadianying.com/20190520/Sk6gnvD1/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190420/12133_9c28b4a9/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190421/9437_98b8ffed/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190421/9436_26a58cab/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190422/12283_15bb8b6b/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190422/12282_67844258/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190423/12347_7459306d/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190423/12346_b15487aa/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190424/12472_ba96ab55/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190424/12471_10b9d3a5/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190425/12697_36d67ee6/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190425/12696_a9cf4a96/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190426/12757_e12666d2/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190426/12756_a7f4c350/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190427/9681_e99df779/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190428/9730_fb2372ff/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190428/9729_6e492ca1/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190429/9801_eab7eaaa/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190429/9800_6efac42d/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190430/13255_f37d4009/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190430/13254_c2bf5f4c/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190501/9903_06a37fae/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190501/9902_c49498b1/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190502/9959_5428968d/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190502/9958_af3d452f/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190503/13440_a15622ac/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190503/13439_1578fb50/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190504/13472_096f13aa/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190505/10074_923b1ab9/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190505/10073_8a16c699/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190506/13587_a4ad2b4e/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190506/13586_4a7ca635/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190507/10227_fed3ba9b/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190507/10226_1bc3a188/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190508/13856_2ad293c2/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190508/13855_9910c9ef/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190509/13911_2d63d25f/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190509/13910_4403d371/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190510/10386_2a5fde72/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190510/10385_0a5a426e/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190511/14207_b6f05a53/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190512/14253_93c5fd36/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190512/14252_99f32208/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190513/14298_24a25ed6/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190513/14297_276d7814/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190514/14373_7a3b7738/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190514/14372_df314096/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190515/10737_134b18f1/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190515/10736_813d0417/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190516/10797_a272c324/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://iqiyi.qq-zuidazy.com/20190516/10796_73842dd4/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190517/14758_c4f2f7d8/index.m3u8
+#EXTINF:-1 ,一場遇見愛情的旅行
+http://bili.meijuzuida.com/20190517/14757_3f6e5a04/index.m3u8
+#EXTINF:-1 ,下一任：前任
+http://cn2.zuidadianying.com/20190517/13NtJbzm/index.m3u8
+#EXTINF:-1 ,高速路連環殺手
+http://hair.jingpin88.com/20171116/o0eNExFL/index.m3u8
+#EXTINF:-1 ,鬼影敲門
+http://hair.jingpin88.com/20171116/3j1k36p7/index.m3u8
+#EXTINF:-1 ,武林：唐門秘毒
+http://bili.meijuzuida.com/20190515/14427_11195c68/index.m3u8
+#EXTINF:-1 ,比悲傷更悲傷的故事
+http://iqiyi.qq-zuidazy.com/20190515/10680_87707353/index.m3u8
+#EXTINF:-1 ,新封神之哪咤鬧海
+http://iqiyi.qq-zuidazy.com/20190514/10543_316618a7/index.m3u8
+#EXTINF:-1 ,深度入侵
+http://hair.jingpin88.com/20171115/B0ipBWec/index.m3u8
+#EXTINF:-1 ,米婭與百萬富翁
+http://hair.jingpin88.com/20171115/5y66GQHE/index.m3u8
+#EXTINF:-1 ,赤眼妖姬
+http://iqiyi.qq-zuidazy.com/20190513/10483_1072825a/index.m3u8
+#EXTINF:-1 ,在劫難逃
+http://hair.jingpin88.com/20171115/pN9ugN1r/index.m3u8
+#EXTINF:-1 ,短信一月追
+http://hair.jingpin88.com/20171114/hULcHbAm/index.m3u8
+#EXTINF:-1 ,紅燈
+http://hair.jingpin88.com/20171114/BgLvgcuv/index.m3u8
+#EXTINF:-1 ,愛誰誰
+http://hair.jingpin88.com/20171114/N8lSCvAR/index.m3u8
+#EXTINF:-1 ,HOLD住愛
+http://hair.jingpin88.com/20171114/MRgX4YAg/index.m3u8
+#EXTINF:-1 ,全城熱戀
+http://hair.jingpin88.com/20171113/PcDPtDkR/index.m3u8
+#EXTINF:-1 ,幸福愛相隨
+http://hair.jingpin88.com/20171113/P4jrYxLH/index.m3u8
+#EXTINF:-1 ,愛很美
+http://hair.jingpin88.com/20171112/IfmlXq4x/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190301/6337_452e9c47/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190301/6336_2c3c1204/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190302/6426_77f2edf6/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190303/6464_1ffd4827/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190303/6465_803bbddb/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190304/6521_1bb4d906/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190304/6520_4672a07e/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190305/6594_3e693537/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190305/6593_cf686eb8/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190306/7180_afee17af/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190306/7179_b9ddf32e/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190307/6737_6923d1d0/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190307/6736_792d72bd/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190309/6941_cbf14cff/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190310/6999_dd3746ff/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190310/6998_6c08c551/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190311/8042_e3f03f4c/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190311/8041_910c234f/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190312/8108_b2379e8d/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190312/8107_3cd0d420/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190313/8178_de5b0774/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190313/8177_7588c3e1/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190314/7253_b4e93a01/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190314/7252_ce580e81/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190315/7324_b8f726b1/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190315/7323_e2112eda/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190317/7425_c40b8622/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190317/7424_8015f8a3/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190318/8810_207a5667/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190318/8809_215b6577/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190319/7548_12cb7dd3/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190319/7547_7ac5ca7e/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190320/7604_ae0f7cd0/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190320/7603_44e1d598/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190321/7663_109f4314/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190321/7662_eaf2d168/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190322/9159_20b55350/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190322/9158_70b8d416/index.m3u8
+#EXTINF:-1 ,都挺好
+http://bili.meijuzuida.com/20190323/9200_61f7b01b/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190324/7829_4b0bbeb4/index.m3u8
+#EXTINF:-1 ,都挺好
+http://iqiyi.qq-zuidazy.com/20190324/7828_fcca6c32/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://bili.meijuzuida.com/20190324/9306_26969c8b/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://bili.meijuzuida.com/20190324/9305_d9f269d6/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190326/7948_6d8ffb2f/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190326/7947_4e3c7244/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://bili.meijuzuida.com/20190327/9577_b41c839e/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://bili.meijuzuida.com/20190327/9576_7c535c5f/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190328/8079_96eada8d/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190328/8078_042fcccb/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190329/8157_65b8a644/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190329/8156_776c962e/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190330/8205_543e9677/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190331/8251_893bc367/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190331/8250_a63dfa08/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190401/8320_fad40e32/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190401/8319_da95c4e9/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190402/8401_159bea80/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190402/8400_d13b8a4d/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://bili.meijuzuida.com/20190404/10397_f1311520/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://bili.meijuzuida.com/20190404/10396_0ec6073d/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190405/8524_bf713dd7/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190405/8523_c6ad055b/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190406/8551_a96dc484/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190407/8605_1b000b6d/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190407/8604_a429cd59/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://bili.meijuzuida.com/20190409/10884_cbb6f8f7/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://bili.meijuzuida.com/20190409/10883_b1330277/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190410/8795_168403c9/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190410/8794_a67c8936/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://bili.meijuzuida.com/20190411/11085_84b06272/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://bili.meijuzuida.com/20190411/11084_285d99a7/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190412/8878_123f941f/index.m3u8
+#EXTINF:-1 ,青春鬥
+http://iqiyi.qq-zuidazy.com/20190412/8877_96c58dd5/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190326/9502_ac286024/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190326/9501_cf468571/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190327/9579_4294c119/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190327/9578_e09ebf08/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190328/8095_b6933e7c/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190328/8094_65a52f5b/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190329/9882_9f3f6bba/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190329/9881_a2502f7f/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190330/8231_f7c48ee7/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190331/9975_8be56eac/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190331/9974_b4c2c709/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190401/10172_2387acc4/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190401/10171_70163393/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190402/8416_890f9c02/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190402/8415_da73b889/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190403/10324_5b55e2ee/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190403/10323_940c9f99/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190404/8480_dcf2cf83/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190404/8479_fc90b6a3/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190405/10502_50854474/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190405/10501_97326011/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190406/10555_e13cbf08/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190407/8612_086ba7a4/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190407/8611_0f71de07/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190408/8683_bcf34876/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190408/8682_b5b37ac4/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190409/8752_d295420d/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190409/8751_8f5d66af/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190410/11030_add4e5ec/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190410/11029_189b7cb0/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190411/11092_14494ebb/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190411/11091_230ab290/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190412/8893_e66ba194/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190412/8892_2a5da243/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190413/8949_959804f5/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190414/11385_2842ba08/index.m3u8
+#EXTINF:-1 ,推手
+http://bili.meijuzuida.com/20190414/11384_1134ae92/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190415/9052_71140696/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190415/9051_e13fb0c8/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190416/9125_3379e422/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190416/9124_7412e370/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190417/9187_b559a9e3/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190417/9186_13ca8c10/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190419/9347_9d19eaaa/index.m3u8
+#EXTINF:-1 ,推手
+http://iqiyi.qq-zuidazy.com/20190419/9346_9c88469e/index.m3u8
+#EXTINF:-1 ,最後一個女神
+http://iqiyi.qq-zuidazy.com/20190306/6702_5814f031/index.m3u8
+#EXTINF:-1 ,最後一個女神
+http://iqiyi.qq-zuidazy.com/20190306/6701_4cb0d193/index.m3u8
+#EXTINF:-1 ,最後一個女神
+http://iqiyi.qq-zuidazy.com/20190306/6700_40d178ea/index.m3u8
+#EXTINF:-1 ,最後一個女神
+http://iqiyi.qq-zuidazy.com/20190306/6699_992685a3/index.m3u8
+#EXTINF:-1 ,最後一個女神
+http://iqiyi.qq-zuidazy.com/20190306/6698_0311cd59/index.m3u8
+#EXTINF:-1 ,最後一個女神
+http://iqiyi.qq-zuidazy.com/20190306/6697_7d5efb0e/index.m3u8
+#EXTINF:-1 ,最後一個女神
+http://iqiyi.qq-zuidazy.com/20190306/6696_ebba53ed/index.m3u8
+#EXTINF:-1 ,最後一個女神
+http://iqiyi.qq-zuidazy.com/20190306/6695_022426a2/index.m3u8
+#EXTINF:-1 ,最後一個女神
+http://iqiyi.qq-zuidazy.com/20190306/6694_737e5b9d/index.m3u8
+#EXTINF:-1 ,最後一個女神
+http://iqiyi.qq-zuidazy.com/20190306/6693_a9697947/index.m3u8
+#EXTINF:-1 ,最後一個女神
+http://iqiyi.qq-zuidazy.com/20190306/6692_1170def4/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5917_910c6df6/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5916_a384cdb3/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5915_c04dc113/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5914_b92330c1/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5913_a6823f50/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5912_c93f83f1/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5911_93eba82b/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5910_c4b6adcb/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5909_17f39a4c/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5908_142d6dba/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5907_ebf09ea6/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5906_d4f6457a/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5905_602f1983/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5904_4c0578fc/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5903_5679dac8/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5902_b9db2ec1/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5901_4486fcaa/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5900_629da6da/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5899_eb5dbb3d/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5898_9fed2cbb/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5897_84a3ae84/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5896_86411db1/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5895_d7e35fcb/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5894_0647fc8d/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5893_3e40ab69/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5892_3f610129/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5891_55e82489/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5890_11590c8b/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5889_e14a7118/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5888_1412c107/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5887_4e73bbed/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5886_20d713e9/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5885_6e45da94/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5884_ecd9dda1/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5883_b3274098/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5882_c5a2fa14/index.m3u8
+#EXTINF:-1 ,太子妃升職記
+http://bili.meijuzuida.com/20190224/5881_d1d9c1e6/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://bili.meijuzuida.com/20190220/5060_11b44703/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://bili.meijuzuida.com/20190220/5059_65a6e7a1/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://bili.meijuzuida.com/20190220/5058_d4452371/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://bili.meijuzuida.com/20190220/5057_392466b4/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://bili.meijuzuida.com/20190220/5056_c76dd4eb/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://bili.meijuzuida.com/20190220/5055_aa168be6/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://iqiyi.qq-zuidazy.com/20190220/5560_42cf2134/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://iqiyi.qq-zuidazy.com/20190220/5559_14be3236/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://iqiyi.qq-zuidazy.com/20190220/5558_5ce79b2c/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://iqiyi.qq-zuidazy.com/20190220/5557_6c012aaa/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://iqiyi.qq-zuidazy.com/20190220/5556_82b63d36/index.m3u8
+#EXTINF:-1 ,北漂愛情故事
+http://iqiyi.qq-zuidazy.com/20190220/5555_1bc5f38f/index.m3u8
+#EXTINF:-1 ,赤足者 68-逛車展的肉絲MM銀高特寫(陸海空)
+https://cn2.zuidadianying.com/20180913/d0jE7R0x/index.m3u8
+#EXTINF:-1 ,赤足者 66-大學內的拍攝黑絲綠色魚嘴平跟鞋
+https://cn2.zuidadianying.com/20180913/HJihsuYm/index.m3u8
+#EXTINF:-1 ,赤足者 62-夢幻長絲
+https://cn2.zuidadianying.com/20180913/S21Gmqn6/index.m3u8
+#EXTINF:-1 ,赤足者 61-高挑的霞霞床上換絲經典
+https://cn2.zuidadianying.com/20180913/kET3BjgO/index.m3u8
+#EXTINF:-1 ,赤足者 59-FILE0003思思
+https://cn2.zuidadianying.com/20180913/OrZpgPmc/index.m3u8
+#EXTINF:-1 ,赤足者 58-紅色高跟加性感黑褲
+https://cn2.zuidadianying.com/20180913/EqS6yfXn/index.m3u8
+#EXTINF:-1 ,赤足者 55-塗著鮮紅指甲油的女郎公園內大秀裸足之美
+https://cn2.zuidadianying.com/20180913/Y7v5IuUT/index.m3u8
+#EXTINF:-1 ,赤足者 54-黑絲黑高跟
+https://cn2.zuidadianying.com/20180913/VHlzSQWv/index.m3u8
+#EXTINF:-1 ,赤足者 53-短肉絲高跟玩鞋、挑鞋
+https://cn2.zuidadianying.com/20180913/DeT5IgNc/index.m3u8
+#EXTINF:-1 ,赤足者 63-ChinaJoy2014：遊族網絡—陳藝嘉。真心漂亮的妹子和真心好看的腳
+https://cn2.zuidadianying.com/20180913/juyNbw5q/index.m3u8
+#EXTINF:-1 ,赤足者 74-牛仔美女脫鞋給大家展示 魚嘴&肉絲
+https://cn2.zuidadianying.com/20180914/FhuMWQt2/index.m3u8
+#EXTINF:-1 ,赤足者 83-小燁拍攝花絮
+https://cn2.zuidadianying.com/20180914/yXikk4vN/index.m3u8
+#EXTINF:-1 ,赤足者 80-婷婷第二季 灰絲篇
+https://cn2.zuidadianying.com/20180914/QLykxxTU/index.m3u8
+#EXTINF:-1 ,赤足者 79-婷婷肉絲篇 第一季
+https://cn2.zuidadianying.com/20180914/FxzODwaV/index.m3u8
+#EXTINF:-1 ,赤足者 78-漂亮女人的靴子裏通常是黑絲襪
+https://cn2.zuidadianying.com/20180914/nEMqZWmE/index.m3u8
+#EXTINF:-1 ,赤足者 77-經典的搭配-黑絲與帆布鞋
+https://cn2.zuidadianying.com/20180914/1YgaS7y1/index.m3u8
+#EXTINF:-1 ,赤足者 75-鞋店美麗的老板娘
+https://cn2.zuidadianying.com/20180914/ZdqW0pbZ/index.m3u8
+#EXTINF:-1 ,赤足者 73-讓姑娘展示裸足給大家欣賞
+https://cn2.zuidadianying.com/20180914/u2v22FgF/index.m3u8
+#EXTINF:-1 ,赤足者 72-連褲黑絲
+https://cn2.zuidadianying.com/20180914/vEtFhFdi/index.m3u8
+#EXTINF:-1 ,赤足者 71-cosplay MM的短肉絲
+https://cn2.zuidadianying.com/20180914/g6OqdA1r/index.m3u8
+#EXTINF:-1 ,#下金!黃!色!尖細高跟，絲足腳底全方位大特寫
+https://cn2.zuidadianying.com/20180912/YBlXwTVq/index.m3u8
+#EXTINF:-1 ,#下尖細白色涼高！然後晾腳！
+https://cn2.zuidadianying.com/20180912/oQIC7FT0/index.m3u8
+#EXTINF:-1 ,赤足者 48-氣質MM魚嘴肉絲擦鞋
+https://cn2.zuidadianying.com/20180912/pjxviGbo/index.m3u8
+#EXTINF:-1 ,赤足者 45-尖細高跟和薄短絲的誘！惑
+https://cn2.zuidadianying.com/20180912/v5ROVp4C/index.m3u8
+#EXTINF:-1 ,赤足者 42-（我的小妹小雲）模拍系列之五：爬到長椅上來了
+https://cn2.zuidadianying.com/20180912/7xq9SGWN/index.m3u8
+#EXTINF:-1 ,赤足者 41-（我的小妹小雲）模拍系列之六：挑鞋、玩鞋大特寫
+https://cn2.zuidadianying.com/20180912/Hloti0xs/index.m3u8
+#EXTINF:-1 ,赤足者 40-紫色肉絲細高魚嘴挑鞋！性感 誘人！
+https://cn2.zuidadianying.com/20180912/eiq4nV58/index.m3u8
+#EXTINF:-1 ,赤足者 39-長椅上少&婦魚嘴玩鞋
+https://cn2.zuidadianying.com/20180912/XJL2A7rd/index.m3u8
+#EXTINF:-1 ,赤足者 36-（我的小妹小雲）模拍系列之七：挑鞋
+https://cn2.zuidadianying.com/20180912/yzAlNaVm/index.m3u8
+#EXTINF:-1 ,赤足者 35-（我的小妹小雲）模拍系列之九：美腳車上拍
+https://cn2.zuidadianying.com/20180912/9uj1xntI/index.m3u8
+#EXTINF:-1 ,赤足者 34-（我的小妹小雲）模拍系列之八：美!腳!脫!絲!襪、誘!惑腳丫大特寫
+https://cn2.zuidadianying.com/20180911/7H0IXOPS/index.m3u8
+#EXTINF:-1 ,赤足者 30-漂亮兩MM嫩腿嫩足
+https://cn2.zuidadianying.com/20180911/YFYPvpGq/index.m3u8
+#EXTINF:-1 ,赤足者 27-兩車模美腳
+https://cn2.zuidadianying.com/20180911/tTFdYx11/index.m3u8
+#EXTINF:-1 ,赤足者 25-金色尖細高跟、直筒褲極薄肉絲MM終極5部大特寫4
+https://cn2.zuidadianying.com/20180911/P9MNrQyE/index.m3u8
+#EXTINF:-1 ,赤足者 24-金色尖細高跟、直筒褲極薄肉絲MM終極5部大特寫3
+https://cn2.zuidadianying.com/20180911/6oUSRwBj/index.m3u8
+#EXTINF:-1 ,#白!褲
+https://cn2.zuidadianying.com/20180911/itgui50p/index.m3u8
+#EXTINF:-1 ,赤足者 18-漂亮兩MM、都是短黑絲細高！！
+https://cn2.zuidadianying.com/20180911/h3ZXHHml/index.m3u8
+#EXTINF:-1 ,赤足者 16-服裝店女老板脫鞋親自展示裸足
+https://cn2.zuidadianying.com/20180911/U56Tzdz3/index.m3u8
+#EXTINF:-1 ,赤足者 15-帶孩子之白絲 美足
+https://cn2.zuidadianying.com/20180911/BJiqDr6t/index.m3u8
+#EXTINF:-1 ,赤足者14-FILE0011 徐老師
+https://cn2.zuidadianying.com/20180911/MisXqpRc/index.m3u8
