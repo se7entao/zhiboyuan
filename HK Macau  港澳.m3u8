@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 ,HK開電視 (備)
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,NOW TV
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=202&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+#EXTINF:-1 ,RHK-31電視台
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+#EXTINF:-1 ,RHK-31電視台 (備)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+#EXTINF:-1 ,TVB 翡翠台 (備)
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.ts
+#EXTINF:-1 ,TVB明珠台
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,TVB翡翠台
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 ,TVB翡翠台1
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,TVB翡翠台2
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 ,TVB翡翠台HD
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 ,凤凰卫视中文
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=190&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+#EXTINF:-1 ,凤凰资讯HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 ,凤凰香港
+http://223.82.250.72/live/fhchinese/1.m3u8
+#EXTINF:-1 ,凤台文化生活
+http://60.175.115.119:1935/live/wenhua/playlist.m3u8
+#EXTINF:-1 ,卫星剧场
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1 ,壹新闻Next tv
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:-1 ,天空新闻
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 ,新传媒8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 ,明珠台
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=012&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+#EXTINF:-1 ,星空卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+#EXTINF:-1 ,星衛電影
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,澳丫卫视，
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,澳亚卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=192&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+#EXTINF:-1 ,澳亚卫视 (備)
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,澳亚卫视 (備)
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,澳亞衛視
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,澳視澳門
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,澳視衛星
+http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
+#EXTINF:-1 ,澳視衛星 (備)
+http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:-1 ,澳門2
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 ,澳門衛視
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 ,澳門資訊
+http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,澳門資訊 (備)
+http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,澳门
+http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
+#EXTINF:-1 ,澳门卫视
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:-1 ,澳门微电影频道
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 ,澳门澳亚卫视
+http://stream.mastvnet.com/MASTV/playlist.m3u8
+#EXTINF:-1 ,澳门澳视体育
+http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 ,澳门葡文
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 ,澳门资讯
+http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,环球电视台
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 ,美国中文电视
+http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 ,翡翠台
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+#EXTINF:-1 ,耀才財經台1
+http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,耀才財經台2
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 ,陽光衛視
+http://stream.isuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 ,香港TVB电影
+http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+#EXTINF:-1 ,香港女神电影
+http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,香港开电视HD
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,香港星河
+http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-03.m3u8
+#EXTINF:-1 ,香港映嘉娱乐儿童频道
+http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 ,香港有线电视1台
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,香港电影
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 ,香港电影频道
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 ,香港粤语台24小时直播
+https://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,香港经典
+http://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8
+#EXTINF:-1 ,香港翡翠
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,香港耀才财經 (備)
+http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,香港耀才财经HD
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,鳳凰資訊 (備)
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 ,鳳凰香港 (備)
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
